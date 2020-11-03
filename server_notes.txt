@@ -1,0 +1,14 @@
+Manual way to handle CORS: 
+
+https://medium.com/@eric.hung0404/deal-with-cors-without-flask-cors-an-example-of-react-and-flask-5832c44108a7
+
+
+Easy way to handle CORS: 
+
+https://dev.to/arnu515/build-a-fullstack-twitter-clone-using-flask-and-react-1j72
+
+
+
+
+
+
